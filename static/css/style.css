@@ -1,0 +1,27 @@
+
+
+#mapid,
+body,
+html {
+  height: 500px;
+}
+
+.legend {
+  line-height: 15px;
+  color: rgb(255, 255, 255);
+}
+.legend i {
+  width: 40px;
+  height: 15px;
+  float: center;
+  margin-right: 8px;
+  opacity: 0.7;
+}
+
+#visualization3,
+body,
+html {
+  height: 500px;
+  width: 800px;
+}
+
